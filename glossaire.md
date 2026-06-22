@@ -86,7 +86,7 @@ Claude Code demande votre accord avant une action sensible (lancer une commande,
 
 Exemple : refuser par défaut les commandes destructrices, n'autoriser que la lecture et les commandes git sûres.
 
-> Voir [bonnes-pratiques.md](bonnes-pratiques.md), section Ne pas tout autoriser.
+> Voir [securite-et-permissions.md](securite-et-permissions.md) et [bonnes-pratiques.md](bonnes-pratiques.md).
 
 ## Prompt caching (mise en cache du prompt)
 

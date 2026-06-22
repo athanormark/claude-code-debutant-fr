@@ -15,15 +15,15 @@ Ce dépôt est vivant. Voici ce qui est livré, ce qui vient ensuite, et ce qu'o
 - [x] **L'annuaire par domaine** (`annuaire-par-domaine.md`), les ressources classées par usage.
 - [x] **Le glossaire** (`glossaire.md`), les termes clés définis simplement.
 - [x] **La FAQ des erreurs fréquentes** (`faq-erreurs-frequentes.md`).
+- [x] **L'aide-mémoire** (`cheatsheet.md`), commandes et raccourcis vérifiés sur la doc officielle.
+- [x] **« Quelle brique pour quel besoin ? »** (`choisir-skill-subagent-mcp-plugin.md`), l'arbre de décision.
+- [x] **Sécurité et permissions** (`securite-et-permissions.md`).
+- [x] **Les pièges du débutant** (`pieges-du-debutant.md`).
 
 ## En cours et à venir
 
 Par ordre de priorité.
 
-- [ ] **Aide-mémoire (cheatsheet)** des commandes, raccourcis et gestes, vérifiés sur la doc officielle, avec les équivalents Windows et PowerShell. Priorité haute, valeur immédiate.
-- [ ] **« Quelle brique pour quel besoin ? »** un arbre de décision (skill, commande, subagent, hook, MCP, plugin). Lève la confusion numéro un du débutant. Priorité haute.
-- [ ] **Sécurité et permissions** : une page dédiée pour ne pas se faire mal (permissions, secrets, lire avant d'installer). Priorité haute.
-- [ ] **Les pièges du débutant** : un catalogue des erreurs classiques et du bon réflexe. Priorité haute.
 - [ ] **Badge « vérifié le JJ/MM/AAAA »** visible en tête de chaque fichier de ressources, mis à jour à chaque passe de fraîcheur. Priorité haute, effort faible.
 - [ ] **Sélection de plugins par métier** (dev web, data et IA, no-code, rédaction) dérivée de l'annuaire, sans le dupliquer. Priorité moyenne.
 - [ ] **Schéma de l'arbre de décision** en Mermaid (rendu natif sur GitHub, maintenance quasi nulle). Priorité moyenne.

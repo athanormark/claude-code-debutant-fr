@@ -72,6 +72,13 @@ Pour choisir en fonction de votre besoin, [`annuaire-par-domaine.md`](annuaire-p
 
 [`faq-erreurs-frequentes.md`](faq-erreurs-frequentes.md) répond aux blocages les plus courants du démarrage (accès refusé, CLAUDE.md ignoré, contexte saturé, MCP qui ne se connecte pas) en mode symptôme, cause, solution.
 
+## Aide-mémoire et repères
+
+- [`cheatsheet.md`](cheatsheet.md) : les commandes, raccourcis et gestes du quotidien, vérifiés sur la doc officielle.
+- [`choisir-skill-subagent-mcp-plugin.md`](choisir-skill-subagent-mcp-plugin.md) : quelle brique pour quel besoin, un arbre de décision.
+- [`securite-et-permissions.md`](securite-et-permissions.md) : ne pas se faire mal (permissions, secrets, lire avant d'installer).
+- [`pieges-du-debutant.md`](pieges-du-debutant.md) : les erreurs classiques et le bon réflexe.
+
 ## Feuille de route
 
 Le détail de ce qui est livré, ce qui vient ensuite et ce qu'on refuse volontairement de faire est dans [ROADMAP.md](ROADMAP.md). Depuis la version 1 (parcours complet), le dépôt s'est enrichi de l'annuaire par domaine, du glossaire et de la FAQ des erreurs. Viennent ensuite l'aide-mémoire, l'arbre de décision des briques, la sécurité et les pièges du débutant.

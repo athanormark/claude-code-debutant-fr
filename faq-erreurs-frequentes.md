@@ -28,7 +28,7 @@ Ces situations arrivent à presque tout le monde au début. Pour chacune : le sy
 
 - **Symptôme** : Claude redemande l'autorisation à chaque commande (pénible), ou bien on a tout autorisé et une commande risquée est passée.
 - **Cause** : réglages par défaut dans un cas, contournement des garde-fous (par exemple `--dangerously-skip-permissions`) dans l'autre.
-- **Solution** : configurer des règles ciblées via `/permissions` (autoriser la lecture et `git log`, demander pour le reste, refuser les commandes destructrices). Ne jamais désactiver globalement les permissions quand on débute. `Shift+Tab` change de mode. Voir [bonnes-pratiques.md](bonnes-pratiques.md), section « Ne pas tout autoriser ».
+- **Solution** : configurer des règles ciblées via `/permissions` (autoriser la lecture et `git log`, demander pour le reste, refuser les commandes destructrices). Ne jamais désactiver globalement les permissions quand on débute. `Shift+Tab` change de mode. Voir [securite-et-permissions.md](securite-et-permissions.md).
 
 ## Annuler une action ou revenir en arrière
 
