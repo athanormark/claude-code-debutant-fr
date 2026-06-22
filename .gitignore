@@ -1,0 +1,27 @@
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Dépendances et build (si un exemple en ajoute un jour)
+node_modules/
+dist/
+build/
+
+# Secrets et environnement
+.env
+.env.*
+*.local
+
+# Réglages personnels de Claude Code (ne pas committer)
+.claude/settings.local.json
+
+# Logs
+*.log
+npm-debug.log*
