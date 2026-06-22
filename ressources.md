@@ -2,7 +2,7 @@
 
 # Annuaire des ressources
 
-Une sélection de dépôts publics utiles autour de Claude Code, contrôlés un par un.
+Une sélection de dépôts publics utiles autour de Claude Code, contrôlés un par un. Pour les mêmes ressources classées par domaine d'usage, avec le moment où chacune sert, voir [annuaire-par-domaine.md](annuaire-par-domaine.md).
 
 > **Méthode et fraîcheur.** Chaque dépôt ci-dessous a été vérifié en direct le **2026-06-22**. Les nombres d'étoiles sont des ordres de grandeur à cette date : ils évoluent vite, ne les prenez pas au mot. Si vous trouvez un lien mort ou un dépôt abandonné, signalez-le (voir [CONTRIBUTING.md](CONTRIBUTING.md)).
 

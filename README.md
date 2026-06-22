@@ -23,7 +23,7 @@ C'est volontairement opinionné et léger. Pour la profondeur et le volume, ce s
 
 ## Prérequis
 
-- Un abonnement **Claude Pro, Max, Team, Enterprise** ou un accès **Console (API)**. Le plan gratuit de Claude.ai ne donne pas accès à Claude Code (vérifié le 2026-06-22 sur la doc officielle).
+- Un abonnement **Claude payant** (voir [les offres](https://claude.com/pricing)) ou un accès **Console (API)**. Le plan gratuit de Claude.ai ne donne pas accès à Claude Code (vérifié le 2026-06-22 sur la doc officielle).
 - macOS 13+, Windows 10 (1809+) ou une distribution Linux récente, avec 4 Go de RAM.
 - À l'aise avec un terminal (ou l'application Desktop, plus douce pour débuter).
 
@@ -62,16 +62,19 @@ Le dossier [`agents/`](agents/) propose des subagents prêts à l'emploi : relec
 
 [`ressources.md`](ressources.md) rassemble les dépôts publics de référence (officiels et communautaires), avec leur lien, une description courte et la date de vérification. Tout ce qui est cité a été contrôlé en direct, sans chiffre inventé.
 
+Pour choisir en fonction de votre besoin, [`annuaire-par-domaine.md`](annuaire-par-domaine.md) reprend ces ressources classées par domaine (méthodologie, qualité, MCP, cloud, documents, SEO), avec pour chacune le moment où elle sert et le piège à connaître.
+
+## Glossaire
+
+[`glossaire.md`](glossaire.md) définit simplement les termes qui reviennent partout : CLAUDE.md, skill, subagent, hook, MCP, plugin, fenêtre de contexte, mode headless. Un terme, une définition courte, un exemple.
+
+## FAQ et erreurs fréquentes
+
+[`faq-erreurs-frequentes.md`](faq-erreurs-frequentes.md) répond aux blocages les plus courants du démarrage (accès refusé, CLAUDE.md ignoré, contexte saturé, MCP qui ne se connecte pas) en mode symptôme, cause, solution.
+
 ## Feuille de route
 
-État actuel : version 1, parcours complet en français.
-
-Pistes ouvertes, par ordre de priorité :
-
-- [ ] Traduction anglaise du parcours (miroir EN).
-- [ ] Captures et exemples animés pour chaque étape.
-- [ ] Sélection commentée de plugins par métier.
-- [ ] Foire aux questions des erreurs de démarrage.
+Le détail de ce qui est livré, ce qui vient ensuite et ce qu'on refuse volontairement de faire est dans [ROADMAP.md](ROADMAP.md). Depuis la version 1 (parcours complet), le dépôt s'est enrichi de l'annuaire par domaine, du glossaire et de la FAQ des erreurs. Viennent ensuite l'aide-mémoire, l'arbre de décision des briques, la sécurité et les pièges du débutant.
 
 Les idées et corrections sont les bienvenues : voir [CONTRIBUTING.md](CONTRIBUTING.md).
 
